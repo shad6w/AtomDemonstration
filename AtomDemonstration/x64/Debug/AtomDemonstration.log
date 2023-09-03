@@ -1,0 +1,35 @@
+﻿  atom.cpp
+C:\Users\ITAdmin\Desktop\6thSEM Project\CG-LAB MiniProject\AtomDemonstration\AtomDemonstration\atom.cpp(19,49): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\ITAdmin\Desktop\6thSEM Project\CG-LAB MiniProject\AtomDemonstration\AtomDemonstration\atom.cpp(21,38): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\ITAdmin\Desktop\6thSEM Project\CG-LAB MiniProject\AtomDemonstration\AtomDemonstration\atom.cpp(21,24): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\ITAdmin\Desktop\6thSEM Project\CG-LAB MiniProject\AtomDemonstration\AtomDemonstration\atom.cpp(60,43): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ITAdmin\Desktop\6thSEM Project\CG-LAB MiniProject\AtomDemonstration\AtomDemonstration\atom.cpp(62,38): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\ITAdmin\Desktop\6thSEM Project\CG-LAB MiniProject\AtomDemonstration\AtomDemonstration\atom.cpp(62,24): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\ITAdmin\Desktop\6thSEM Project\CG-LAB MiniProject\AtomDemonstration\AtomDemonstration\atom.cpp(70,49): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\ITAdmin\Desktop\6thSEM Project\CG-LAB MiniProject\AtomDemonstration\AtomDemonstration\atom.cpp(72,42): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\ITAdmin\Desktop\6thSEM Project\CG-LAB MiniProject\AtomDemonstration\AtomDemonstration\atom.cpp(72,24): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\ITAdmin\Desktop\6thSEM Project\CG-LAB MiniProject\AtomDemonstration\AtomDemonstration\atom.cpp(80,49): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\ITAdmin\Desktop\6thSEM Project\CG-LAB MiniProject\AtomDemonstration\AtomDemonstration\atom.cpp(82,45): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\ITAdmin\Desktop\6thSEM Project\CG-LAB MiniProject\AtomDemonstration\AtomDemonstration\atom.cpp(82,20): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\ITAdmin\Desktop\6thSEM Project\CG-LAB MiniProject\AtomDemonstration\AtomDemonstration\atom.cpp(90,49): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\ITAdmin\Desktop\6thSEM Project\CG-LAB MiniProject\AtomDemonstration\AtomDemonstration\atom.cpp(92,37): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\ITAdmin\Desktop\6thSEM Project\CG-LAB MiniProject\AtomDemonstration\AtomDemonstration\atom.cpp(92,23): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\ITAdmin\Desktop\6thSEM Project\CG-LAB MiniProject\AtomDemonstration\AtomDemonstration\atom.cpp(100,49): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\ITAdmin\Desktop\6thSEM Project\CG-LAB MiniProject\AtomDemonstration\AtomDemonstration\atom.cpp(102,33): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\ITAdmin\Desktop\6thSEM Project\CG-LAB MiniProject\AtomDemonstration\AtomDemonstration\atom.cpp(102,23): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\ITAdmin\Desktop\6thSEM Project\CG-LAB MiniProject\AtomDemonstration\AtomDemonstration\atom.cpp(110,49): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\ITAdmin\Desktop\6thSEM Project\CG-LAB MiniProject\AtomDemonstration\AtomDemonstration\atom.cpp(112,62): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\ITAdmin\Desktop\6thSEM Project\CG-LAB MiniProject\AtomDemonstration\AtomDemonstration\atom.cpp(112,33): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\ITAdmin\Desktop\6thSEM Project\CG-LAB MiniProject\AtomDemonstration\AtomDemonstration\atom.cpp(120,49): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\ITAdmin\Desktop\6thSEM Project\CG-LAB MiniProject\AtomDemonstration\AtomDemonstration\atom.cpp(122,63): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\ITAdmin\Desktop\6thSEM Project\CG-LAB MiniProject\AtomDemonstration\AtomDemonstration\atom.cpp(122,20): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\ITAdmin\Desktop\6thSEM Project\CG-LAB MiniProject\AtomDemonstration\AtomDemonstration\atom.cpp(130,49): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\ITAdmin\Desktop\6thSEM Project\CG-LAB MiniProject\AtomDemonstration\AtomDemonstration\atom.cpp(132,50): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\ITAdmin\Desktop\6thSEM Project\CG-LAB MiniProject\AtomDemonstration\AtomDemonstration\atom.cpp(132,20): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\ITAdmin\Desktop\6thSEM Project\CG-LAB MiniProject\AtomDemonstration\AtomDemonstration\atom.cpp(140,49): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\ITAdmin\Desktop\6thSEM Project\CG-LAB MiniProject\AtomDemonstration\AtomDemonstration\atom.cpp(142,49): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\ITAdmin\Desktop\6thSEM Project\CG-LAB MiniProject\AtomDemonstration\AtomDemonstration\atom.cpp(142,33): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\ITAdmin\Desktop\6thSEM Project\CG-LAB MiniProject\AtomDemonstration\AtomDemonstration\atom.cpp(148,29): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+C:\Users\ITAdmin\Desktop\6thSEM Project\CG-LAB MiniProject\AtomDemonstration\AtomDemonstration\atom.cpp(148,24): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+C:\Users\ITAdmin\Desktop\6thSEM Project\CG-LAB MiniProject\AtomDemonstration\AtomDemonstration\atom.cpp(408,19): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+  AtomDemonstration.vcxproj -> C:\Users\ITAdmin\Desktop\6thSEM Project\CG-LAB MiniProject\AtomDemonstration\x64\Debug\AtomDemonstration.exe
